@@ -420,9 +420,9 @@
   */
   
   "ep_pad_ttl": {
-    "ttl": 21600, // 6 hours
-    "timeout": 5,
-    "interval": 3600 // 1 hour
+    "ttl": 86400, // 24 hours
+    "timeout": 30,
+    "interval": 21600 // 6 hours
   },
 
   /*
